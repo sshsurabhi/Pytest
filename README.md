@@ -2,7 +2,7 @@
 
 - We should use our default python installation
 - We have to install `pytest` in your applicable version
-- run `python3 -m pytest` from the repository-root should be enough to run tests
+- run `python3 -m pytest`/ 'python .m pytest' from the repository-root should be enough to run tests
 
 # Tasks
 
